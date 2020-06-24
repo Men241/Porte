@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed2f3de6-ed29-40a2-887c-5e4b622e3a4a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,23 +16,18 @@
   </component>
   <component name="ProjectId" id="1dhDl5dMIzkXNpcJWIBbdUcPDCK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -47,11 +41,20 @@
       <updated>1592868578288</updated>
       <workItem from="1592868580077" duration="558000" />
       <workItem from="1592992310535" duration="584000" />
+      <workItem from="1592995407915" duration="480000" />
     </task>
+    <task id="LOCAL-00001" summary="Formulaire valide.">
+      <created>1592995578778</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592995578778</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -59,11 +62,40 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="COLUMN_ORDER" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
             </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Formulaire valide." />
+    <option name="LAST_COMMIT_MESSAGE" value="Formulaire valide." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="23" y="37" key="CommitChangelistDialog2" timestamp="1592995577763">
+      <screen x="0" y="23" width="1920" height="1053" />
+    </state>
+    <state x="23" y="37" key="CommitChangelistDialog2/0.23.1920.1053@0.23.1920.1053" timestamp="1592995577763" />
+    <state x="293" y="470" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592995516029">
+      <screen x="0" y="23" width="1920" height="1053" />
+    </state>
+    <state x="293" y="470" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.1053@0.23.1920.1053" timestamp="1592995516029" />
+    <state x="325" y="440" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1592995882528">
+      <screen x="0" y="23" width="1920" height="1053" />
+    </state>
+    <state x="325" y="440" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1920.1053@0.23.1920.1053" timestamp="1592995882528" />
   </component>
 </project>
